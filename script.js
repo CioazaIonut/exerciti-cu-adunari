@@ -30,3 +30,19 @@ console.log(suma);
 let salut = "Bună ";
 let nume = "Andrei";
 console.log(salut + nume);
+
+// Adunarea a două numere introduse de utilizator:
+
+// Calcularea sumei mai multor numere:
+
+// Adunarea elementelor unui array:
+
+//Adunarea și afișarea
+// rezultatelor pentru mai multe perechi de numere:
+
+let num1 = 5;
+let num2 = 10;
+let num3 = 3;
+let num4 = 7;
+
+console.log("suma primelor doua numere este:" + (num1 + num2));
