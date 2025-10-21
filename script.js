@@ -46,3 +46,14 @@ let num3 = 3;
 let num4 = 7;
 
 console.log("suma primelor doua numere este:" + (num1 + num2));
+
+//Adunarea a mai multor numere citite de la utilizator:
+
+// Adunarea numerelor par și impare până la un anumit număr:
+
+// Calcularea sumei numerelor dintr-un array de string-uri:
+
+let stringNums = ["1", "2", "3", "4", "5"];
+let sumaUnu = 0;
+
+// Adunarea a doi vectori:
